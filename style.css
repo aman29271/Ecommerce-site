@@ -1,0 +1,46 @@
+.btn-primary{
+                text-align: center;
+            }
+               
+               .para{
+                   font-size: 15px;
+               }
+               .modal_content{
+                   display: none;
+                   width: 100%;
+                   height:auto;
+                   background-color: rgba(0,0,0,0.4);
+                  position: fixed;
+                   top:0;
+                   left: 0;
+                   overflow: auto;
+               }
+               .modal_body{
+                   width: 80%;
+                   margin: auto;
+                   margin-top: 50px;
+                   background-color: #fefefe;
+                   padding: 20px;
+                   border: 1px solid #888;
+               }
+               .close{
+                   color: #aaa;
+                   font-weight: bold;
+                   font-size: 28px;
+                   float: right;
+                   cursor: pointer;
+               }
+               .close:hover,:focus{
+                   color: #000;
+                   text-decoration: none;
+                   cursor: pointer;
+               }/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 12 Jan, 2018, 1:10:13 AM
+    Author     : Dell_WITL
+*/
+
