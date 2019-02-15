@@ -1,0 +1,7 @@
+#netbeans auto-generated
+/nbproject
+/private
+#exclude image file for performance
+/img
+#for all image file
+*.jpg
