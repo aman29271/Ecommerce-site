@@ -5,3 +5,4 @@
 /img
 #for all image file
 *.jpg
+.vscode/
